@@ -1,1 +1,6 @@
-
+dig
+touch
+nano
+ufw
+scp
+ssh
